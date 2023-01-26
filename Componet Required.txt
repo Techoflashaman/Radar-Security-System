@@ -1,0 +1,13 @@
+Radar Security System
+
+Hardware
+
+1. 1-Arduino(UNO 328p)
+2. 1-Servo motar
+3. 1-Ultrasonic Sensor(HC-SR04)
+4. Jumper wires
+
+Software
+
+1. Arduino IDE
+2. Processing App.
